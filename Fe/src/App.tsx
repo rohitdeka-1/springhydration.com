@@ -10,13 +10,7 @@ const COLORS = [
   "bg-purple-400",
   "bg-red-400",
   "bg-blue-500",
-  "bg-orange-500",
-  "bg-pink-500",
-  "bg-purple-500",
   "bg-red-500",
-  "bg-blue-600",
-  "bg-yellow-500",
-  "bg-orange-600"
 ];
 
 function App() {
